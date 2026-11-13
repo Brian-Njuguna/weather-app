@@ -1,3 +1,5 @@
+import "./index.css";
+
 const body = document.querySelector(".body");
 const main_div = document.createElement("div");
 main_div.classList.add("main_div")
